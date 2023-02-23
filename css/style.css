@@ -33,11 +33,9 @@
 .top-buttons > button {
   padding: 3px 5px;
   margin: 5px;
-  background-color: #4a4a4a;
-  color: white;
-  padding: 5px;
   border-radius: 5px;
   font-size: 14px;
+  background-color: #4a4a4a; 
 }
 button > i {
   padding-right: 3px;
@@ -55,8 +53,8 @@ main > .container {
   padding-top: 60px;
 }
 .card {
-  width: 230px;
-  height: 150px;
+  /* width: 230px;
+  height: 150px; */
   margin: 5px;
   display: inline-block;
   position: relative;
@@ -69,7 +67,6 @@ main > .container {
   bottom: 0;
   padding: 3px;
   background-color: rgba(98, 111, 123, 0.7);
-  color: white;
   font-size: 12px;
 }
 div > img {
