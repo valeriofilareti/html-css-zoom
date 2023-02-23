@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+main {
+  width: 100%;
+  height: calc(100vh - 80px);
+  background-color: yellow;
+  overflow: auto;
+}
+.bottom-bar {
+  height: 80px;
+  width: 100%;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  background-color: #222222;
+}
+p {
+  font-size: 30px;
+}
